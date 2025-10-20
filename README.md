@@ -1,7 +1,7 @@
-# Share Ride Application
+# RIDEEZI Application
 
 ## Project Overview
-The Share Ride application is a platform designed to connect passengers with captains (drivers) for seamless ride-sharing experiences. It includes features for user registration, ride booking, captain registration, and real-time ride tracking. The project is divided into two main parts:
+The  RIDEEZI application is a platform designed to connect passengers with captains (drivers) for seamless ride-sharing experiences. It includes features for user registration, ride booking, captain registration, and real-time ride tracking. The project is divided into two main parts:
 
 1. **Backend**: Built with Node.js and Express.js, it handles API endpoints, database interactions, and real-time communication using Socket.IO.
 2. **Frontend**: Developed with React and Vite, it provides a user-friendly interface for passengers and captains.
